@@ -1,0 +1,7 @@
+# ninja log v5
+1	304	1658517803865615093	CMakeFiles/LeetCode_IO.dir/solution.cpp.o	7bdcdac9fe6639ff
+379	455	1658517839294156827	LeetCode_IO	26a8b30d6f9ebdef
+1	379	1658517839218155666	CMakeFiles/LeetCode_IO.dir/test.cpp.o	f9c8927b5a9e1336
+1	497	1658517906379179740	CMakeFiles/LeetCode_IO.dir/solution.cpp.o	be7540ccb3260f33
+0	500	1658517906383179800	CMakeFiles/LeetCode_IO.dir/test.cpp.o	779994c94449064f
+500	597	1658517906479181262	LeetCode_IO	26a8b30d6f9ebdef
