@@ -1,3 +1,3 @@
-/home/yixin/Softwares/CPP/LeetCode_76_Minimum_Window_Substring/cmake-build-debug/CMakeFiles/LeetCode_IO.dir
-/home/yixin/Softwares/CPP/LeetCode_76_Minimum_Window_Substring/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/yixin/Softwares/CPP/LeetCode_76_Minimum_Window_Substring/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring/cmake-build-debug/CMakeFiles/LeetCode_IO.dir
+/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring/cmake-build-debug/CMakeFiles/rebuild_cache.dir

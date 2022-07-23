@@ -10,20 +10,14 @@
 using namespace std;
 
 int main() {
-    // get current working directory
-    char path[255];
-    getcwd(path, 255);
-//    std::cout << path << std::endl;
+    int numArgs = 2;
+    int numCases = 3;
 
     // read input arguments from input.txt
     ifstream infile;
     infile.open("../Inputs/input.txt");
-//    infile.open("/home/yixin/Softwares/CPP/LeetCode_76_Minimum_Window_Substring/input.txt");
     assert(infile.is_open());
-    cout << "Read input.txt" << endl;
-
-    int numArgs = 2;
-    int numCases = 3;
+    cout << "Reading input.txt complete" << endl;
 
     vector<string> inputs;
     vector<string> outputs;

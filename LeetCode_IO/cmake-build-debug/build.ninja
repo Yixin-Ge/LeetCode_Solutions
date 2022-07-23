@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring/cmake-build-debug/
+cmake_ninja_workdir = /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target LeetCode_IO
 
@@ -49,16 +49,8 @@ cmake_ninja_workdir = /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_
 
 build cmake_object_order_depends_target_LeetCode_IO: phony || CMakeFiles/LeetCode_IO.dir
 
-build CMakeFiles/LeetCode_IO.dir/test.cpp.o: CXX_COMPILER__LeetCode_IO_Debug /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring/test.cpp || cmake_object_order_depends_target_LeetCode_IO
-  DEP_FILE = CMakeFiles/LeetCode_IO.dir/test.cpp.o.d
-  FLAGS = -g
-  OBJECT_DIR = CMakeFiles/LeetCode_IO.dir
-  OBJECT_FILE_DIR = CMakeFiles/LeetCode_IO.dir
-  TARGET_COMPILE_PDB = CMakeFiles/LeetCode_IO.dir/
-  TARGET_PDB = LeetCode_IO.pdb
-
-build CMakeFiles/LeetCode_IO.dir/solution.cpp.o: CXX_COMPILER__LeetCode_IO_Debug /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring/solution.cpp || cmake_object_order_depends_target_LeetCode_IO
-  DEP_FILE = CMakeFiles/LeetCode_IO.dir/solution.cpp.o.d
+build CMakeFiles/LeetCode_IO.dir/main.cpp.o: CXX_COMPILER__LeetCode_IO_Debug /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO/main.cpp || cmake_object_order_depends_target_LeetCode_IO
+  DEP_FILE = CMakeFiles/LeetCode_IO.dir/main.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/LeetCode_IO.dir
   OBJECT_FILE_DIR = CMakeFiles/LeetCode_IO.dir
@@ -73,7 +65,7 @@ build CMakeFiles/LeetCode_IO.dir/solution.cpp.o: CXX_COMPILER__LeetCode_IO_Debug
 #############################################
 # Link the executable LeetCode_IO
 
-build LeetCode_IO: CXX_EXECUTABLE_LINKER__LeetCode_IO_Debug CMakeFiles/LeetCode_IO.dir/test.cpp.o CMakeFiles/LeetCode_IO.dir/solution.cpp.o
+build LeetCode_IO: CXX_EXECUTABLE_LINKER__LeetCode_IO_Debug CMakeFiles/LeetCode_IO.dir/main.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/LeetCode_IO.dir
   POST_BUILD = :
@@ -87,7 +79,7 @@ build LeetCode_IO: CXX_EXECUTABLE_LINKER__LeetCode_IO_Debug CMakeFiles/LeetCode_
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring/cmake-build-debug && /snap/clion/198/bin/cmake/linux/bin/ccmake -S/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring -B/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring/cmake-build-debug
+  COMMAND = cd /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO/cmake-build-debug && /snap/clion/198/bin/cmake/linux/bin/ccmake -S/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO -B/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO/cmake-build-debug
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -99,7 +91,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring/cmake-build-debug && /snap/clion/198/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring -B/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring/cmake-build-debug
+  COMMAND = cd /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO/cmake-build-debug && /snap/clion/198/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO -B/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -115,7 +107,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 #############################################
-# Folder: /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring/cmake-build-debug
+# Folder: /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO/cmake-build-debug
 
 build all: phony LeetCode_IO
 

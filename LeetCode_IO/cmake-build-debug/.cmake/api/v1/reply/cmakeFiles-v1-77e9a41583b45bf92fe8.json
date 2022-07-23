@@ -708,8 +708,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/yixin/Softwares/CPP/LeetCode_76_Minimum_Window_Substring/cmake-build-debug",
-		"source" : "/home/yixin/Softwares/CPP/LeetCode_76_Minimum_Window_Substring"
+		"build" : "/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO/cmake-build-debug",
+		"source" : "/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO"
 	},
 	"version" : 
 	{

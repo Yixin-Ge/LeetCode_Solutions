@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /snap/clion/198/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring -B/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring/cmake-build-debug
+  command = /snap/clion/198/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO -B/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

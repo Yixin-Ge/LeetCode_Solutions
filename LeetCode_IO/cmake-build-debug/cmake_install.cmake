@@ -1,4 +1,4 @@
-# Install script for directory: /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring
+# Install script for directory: /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_76_Minimum_Window_Substring/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

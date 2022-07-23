@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/yixin/Softwares/CPP/LeetCode_76_Minimum_Window_Substring/cmake-build-debug"
+			"value" : "/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -591,7 +591,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/yixin/Softwares/CPP/LeetCode_76_Minimum_Window_Substring"
+			"value" : "/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1123,7 +1123,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/yixin/Softwares/CPP/LeetCode_76_Minimum_Window_Substring/cmake-build-debug"
+			"value" : "/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO/cmake-build-debug"
 		},
 		{
 			"name" : "LeetCode_IO_IS_TOP_LEVEL",
@@ -1147,7 +1147,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/yixin/Softwares/CPP/LeetCode_76_Minimum_Window_Substring"
+			"value" : "/home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode_IO"
 		}
 	],
 	"kind" : "cache",
