@@ -1,0 +1,4 @@
+/snap/clion/198/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/198/bin/ninja/linux/ninja -G Ninja -S /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode64_Minimum_Path_Sum -B /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode64_Minimum_Path_Sum/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yixin/Softwares/Yixin_LeetCode_Solution/LeetCode64_Minimum_Path_Sum/cmake-build-debug
